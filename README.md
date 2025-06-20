@@ -45,4 +45,4 @@ Keep offering diverse payment options, as customers use all modes almost equally
 Explore and expand successful store locations (e.g., New York, London, Lagos).
 
 ## Conclusion:
-This dashboard reveals a healthy and profitable business, with strong sales distributed across various locations and product categories. The high average order value and profit margin reflect effective pricing and product strategies. However, some areas like June (low monthly sales) and Tuesdays/Fridays (low daily sales) might benefit from targeted promotions
+This dashboard reveals a healthy and profitable business, with strong sales distributed across various locations and product categories. The high average order value and profit margin reflect effective pricing and product strategies. However, some areas like June (low monthly sales) and Tuesdays/Fridays (low daily sales) might benefit from targeted promotions.
