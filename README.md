@@ -2,17 +2,17 @@
 This project involves designing an interactive Sales Dashboard to monitor and analyze the performance of a global retail business. Built using Power BI, the dashboard provides real-time insights into key sales metrics, helping stakeholders make data-driven decisions.
 The dashboard consolidates sales data across multiple countries, store locations, product categories, and payment methods, and visualizes it using maps, charts, and KPIs.
 ## Key Features:
-KPIs: Total Orders, Total Sales, Total Profit, Discounts Given, and Average Order Value.
+**KPIs:** Total Orders, Total Sales, Total Profit, Discounts Given, and Average Order Value.
 
-Geo Analysis: Sales by store locations visualized on a world map.
+**Geo Analysis:** Sales by store locations visualized on a world map.
 
-Time-Based Trends: Monthly and Daily Sales Trend line/bar charts for time-series insights.
+**Time-Based Trends:** Monthly and Daily Sales Trend line/bar charts for time-series insights.
 
-Category Breakdown: Sales performance across major product categories (e.g., Home & Kitchen, Electronics, Clothing).
+**Category Breakdown:** Sales performance across major product categories (e.g., Home & Kitchen, Electronics, Clothing).
 
-Payment Method Analysis: Pie chart breakdown showing Mobile, Credit Card, and Cash contributions.
+**Payment Method Analysis:** Pie chart breakdown showing Mobile, Credit Card, and Cash contributions.
 
-Interactive Filters: Slicers for Country, Store Location, Category, Payment Method, and Date Range.
+**Interactive Filters:** Slicers for Country, Store Location, Category, Payment Method, and Date Range.
 
 ## Business Insights Uncovered:
 Identified peak sales periods in December and weekends (especially Sundays).
@@ -24,11 +24,11 @@ Balanced usage of payment methods indicating flexibility in customer preferences
 Specific cities (New York, London, Lagos) emerged as top-performing store locations.
 
 ## Tools & Technologies Used:
-Power BI (Dashboard Design, DAX Calculations)
+**Power BI** (Dashboard Design, DAX Calculations)
 
-Excel/CSV (Data Cleaning and Preprocessing)
+**Excel/CSV** (Data Cleaning and Preprocessing)
 
-Power Query Editor (Data Transformation)
+**Power Query Editor** (Data Transformation)
 
 Map Visuals, Line Charts, Bar Charts, Pie Charts, Cards, Slicers
 
