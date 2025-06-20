@@ -1,6 +1,9 @@
 # DataProfessional_SalesAnalysis
 This project involves designing an interactive Sales Dashboard to monitor and analyze the performance of a global retail business. Built using Power BI, the dashboard provides real-time insights into key sales metrics, helping stakeholders make data-driven decisions.
 The dashboard consolidates sales data across multiple countries, store locations, product categories, and payment methods, and visualizes it using maps, charts, and KPIs.
+
+- <a href="https://drive.google.com/drive/folders/1eMY-cG2MIaPLoLKOi_3rjCcKpxxqm0hy">DatasetUsed</a>
+
 ## Key Features:
 **KPIs:** Total Orders, Total Sales, Total Profit, Discounts Given, and Average Order Value.
 
