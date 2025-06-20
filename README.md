@@ -4,6 +4,9 @@ The dashboard consolidates sales data across multiple countries, store locations
 
 - <a href="https://drive.google.com/drive/folders/1eMY-cG2MIaPLoLKOi_3rjCcKpxxqm0hy">DatasetUsed</a>
 
+## Dashboard Screenshot
+- <a href="https://github.com/Mukilya/DataProfessional_SalesAnalysis/blob/main/Screenshot%202025-06-19%20225540.png"></a>
+
 ## Key Features:
 **KPIs:** Total Orders, Total Sales, Total Profit, Discounts Given, and Average Order Value.
 
